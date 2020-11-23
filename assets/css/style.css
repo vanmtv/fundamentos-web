@@ -1,5 +1,8 @@
 /*Estilos da pagina index.html*/
 
+#navbar{
+    background-color: aquamarine;
+}
 #navbar li{
     display: inline;
     padding: 30px;
